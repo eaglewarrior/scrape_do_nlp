@@ -5,4 +5,6 @@ I will keep on updating the package
 
 If you want to contribute to the package please feel free to raise a issue for feature addition or if you find a bug raise a issue for bug resolving.
 
-To Install the package through pip please use pip install scrape-do-nlp
+To Install the package through pip please use 
+
+pip install scrape-do-nlp
