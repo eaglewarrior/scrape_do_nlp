@@ -10,7 +10,7 @@ setup(
         name="scrape_do_nlp", 
         version=VERSION,
         author="Rinki Nag",
-        author_email="accanymous@gmail.com",
+        author_email="",
         url="https://github.com/eaglewarrior/scrape_do_nlp",
         description=DESCRIPTION,
         long_description=LONG_DESCRIPTION,
