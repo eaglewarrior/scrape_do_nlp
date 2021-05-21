@@ -1,7 +1,7 @@
 from setuptools import setup, find_packages
 
 VERSION = '1.0.0' 
-DESCRIPTION = 'This package will just take twitter keys and topic you want to scrape and give summarya dn sentiment as output'
+DESCRIPTION = 'This package will just take twitter keys and topic you want to scrape and give summary and sentiment as output'
 LONG_DESCRIPTION = 'This package will scrape google and twitter and if sentiment flag is on it will do sentiment analysis and give summarization as output, the package is modular enough and separate task can be done like only scraping only google text or twitter text etc '
 
 # Setting up
